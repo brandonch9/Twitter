@@ -1,4 +1,4 @@
 # Twitter
-simple twitter app using backbone
+simple twitter app using nodejs, backbone and mongodb
 
-run 'bin/www' to start
+run 'node server' to start
